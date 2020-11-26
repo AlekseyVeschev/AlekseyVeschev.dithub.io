@@ -1,2 +1,2 @@
-# AlekseyVeschev.dithub.io
+# AlekseyVeschev.github.io
 Первый хостинг
