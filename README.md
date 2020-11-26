@@ -1,2 +1,2 @@
 # AlekseyVeschev.github.io
-Первый хостинг
+Maket Waxom
